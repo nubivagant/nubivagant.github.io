@@ -1,0 +1,3 @@
+Sitemap: https://k-o-j.co/sitemap.xml
+
+User-agent: *
