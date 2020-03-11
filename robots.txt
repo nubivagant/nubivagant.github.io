@@ -1,3 +1,3 @@
-Sitemap: https://k-o-j.co/sitemap.xml
+Sitemap: https://www.kurtisojohnson.com/sitemap.xml
 
 User-agent: *
